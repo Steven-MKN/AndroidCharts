@@ -23,7 +23,7 @@ repositories {
 ```
 
 ```groovy
-compile 'im.dacer:AndroidCharts:1.0.4'
+implementation 'im.dacer:AndroidCharts:1.0.4'
 ```
 
 ## Usage
